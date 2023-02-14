@@ -1,4 +1,9 @@
 # deepfakes_faceswap
+
+in my case 
+
+`python -m pip install tensorflow-macos==2.9 python -m pip install tensorflow-metal==0.5.0`
+
 <p align="center">
   <a href="https://faceswap.dev"><img src="https://i.imgur.com/zHvjHnb.png"></img></a>
 <br />FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
